@@ -1,0 +1,21 @@
+{
+  "title": "Contact - InSoft | Design & Development Agency | web site, web applications and mobile applications development",
+  "pageClass":"insoftWebPageContact",
+  "meta": [
+    {"name":"keywords","content":"web applications, web sites, mobile applications, karlovac, development, design, web design, e-commerce"},
+    {"name":"description","content":"InSoft is the company specialized in web site, web applications and mobile applications development."},
+    {"property":"og:type","content":"business.business"},
+    {"property":"og:title","content":"Contact - InSoft | Design & Development Agency | web site, web applications and mobile applications development"},
+    {"property":"og:url","content":"//www.insoft.hr"},
+    {"property":"og:image","content":"//www.insoft.hr/images/logo_full.png"},
+    {"property":"business:contact_data:locality","content":"Karlovac"},
+    {"property":"business:contact_data:street_address","content":"Trg Josipa Broza Tita 2"},
+    {"property":"business:contact_data:region","content":""},
+    {"property":"business:contact_data:postal_code","content":"47000"},
+    {"property":"business:contact_data:country_name","content":"Hrvatska"}
+  ],
+  "assoctiations":{
+    "hr":"kontakt",
+    "en":"contact"
+  }
+}

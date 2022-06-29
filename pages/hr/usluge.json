@@ -1,0 +1,21 @@
+{
+  "title": "Usluga - InSoft | Design & Development Agency | Izrada web stranica, web aplikacija, mobilnih aplaikacija",
+  "pageClass":"insoftWebPageServices",
+  "meta": [
+    {"name":"keywords","content":"web stranice, web aplikacije, web, mobilne aplikacije, karlovac, izrada web stranica, dizajn, web dizajn, razvoj mobilnih aplikacija, izrada softvera, internet trgovine, Joomla CMS, Magento e-Commerce, Joomla ekstenzije, Andriod, Hibridne mobilne aplikacije, iOS'"},
+    {"name":"description","content":"InSoft je tvrtka specijalizirana za izradu web stranica  i razvoj web aplikacija i mobilnih aplikacija."},
+    {"property":"og:type","content":"business.business"},
+    {"property":"og:title","content":"Usluga - InSoft | Design & Development Agency | Izrada web stranica, web aplikacija, mobilnih aplaikacija"},
+    {"property":"og:url","content":"//www.insoft.hr"},
+    {"property":"og:image","content":"//www.insoft.hr/images/logo_full.png"},
+    {"property":"business:contact_data:locality","content":"Karlovac"},
+    {"property":"business:contact_data:street_address","content":"Trg Josipa Broza Tita 2"},
+    {"property":"business:contact_data:region","content":""},
+    {"property":"business:contact_data:postal_code","content":"47000"},
+    {"property":"business:contact_data:country_name","content":"Hrvatska"}
+  ],
+  "assoctiations":{
+    "hr":"usluge",
+    "en":"services"
+  }
+}
