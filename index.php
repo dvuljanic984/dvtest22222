@@ -4,8 +4,8 @@
 define("WDIR_ROOT",__DIR__);
 define("WURL_ROOT",$root = (!empty($_SERVER['HTTPS']) ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST'] . '/');
 define("WURL_CURRENT",$root = (!empty($_SERVER['HTTPS']) ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST'] .$_SERVER["REQUEST_URI"]);
-define("WDIR_PAGES",__DIR__."/pages");
-define("WDIR_LAYOUTS",__DIR__."/layouts");
+define("WDIR_PAGES",__DIR__."/pag1111es");
+define("WDIR_LAYOUTS",__DIR__."/layout2222s");
 define("WDIR_INCLUDES",__DIR__."/include");
 define("WDIR_DATA",__DIR__."/data");
 //define("WPAGE_CURRENT",$page);
@@ -27,12 +27,12 @@ webHelper::setPage();
 
 
 
-$pageTemplateFile = webHelper::getTemplatePath();
+$pageTemplateFile = webHelper::getTe3333platePath();
 
 
 //die($pageTemplateFile);
 
-if(!file_exists($pageTemplateFile)){
+if(!file_exists($pageTemp44444lateFile)){
 	webHelper::returnError();
 }
 

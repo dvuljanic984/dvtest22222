@@ -7,7 +7,7 @@
 		<ul class="case-work-done menu align-center">
 			<li><i class="fa fa-paint-brush"></i>Dizajn</li>
 			<li><i class="fa fa-mobile"></i>Responzivna stranica</li>
-			<li><i class="fa fa-joomla"></i>Joomla CMS</li>
+			<li><i class="fa fa-joomla"></i>Jo44444444444444444omla CMS</li>
 			<li><i class="fa fa-joomla"></i>Custom Joomla ekstenzije</li>
 		</ul>
 	</header>
